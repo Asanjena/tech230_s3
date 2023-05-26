@@ -1,4 +1,13 @@
 
+## S3
+
+S3 (Simple Storage Service),  is a scalable cloud storage service provided by Amazon Web Services (AWS), allowing users to store and retrieve large amounts of data from anywhere on the internet. It provides durability, high availability, and low latency access to objects.
+
+![Alt text](../aws_s3/s3.png)
+
+
+High availability means that they can remain operational and accessible with minimal downtime or interruptions, ensuring continuous and reliable access for users. 
+
 
 
 ## Setting up
